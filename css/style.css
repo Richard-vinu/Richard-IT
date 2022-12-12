@@ -331,7 +331,7 @@ a:focus {
 }
 
 .practice_box:hover .practice_img-box {
-  background-color: #e275a8d2;
+  background-color: #CB1C8D;
 }
 
 .practice_img-box {
@@ -341,7 +341,7 @@ a:focus {
   width: 225px;
   height: 295px;
   border-radius: 90px;
-  background-color: #4D90FE;
+  background-color: #4B56D2;
 
 }
 
@@ -559,3 +559,15 @@ a:focus {
   
 }
 
+
+.resume{
+  margin-top: 10px;
+}
+
+
+.submit-button {
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
